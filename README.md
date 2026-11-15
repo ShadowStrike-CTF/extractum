@@ -1,6 +1,6 @@
 # Extractum
 
-Legal brief and judgment summariser — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/extractum
 
